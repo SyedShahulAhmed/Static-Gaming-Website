@@ -32,7 +32,7 @@ This is a static gaming content website named **Vortex**, designed to showcase v
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/gaming-content-showcase.git
+   git clone https://github.com/SHAHUL-AHMED-77/Static-Gaming-Website.git
    ```
 2. Open `index.html` in your browser.
 
