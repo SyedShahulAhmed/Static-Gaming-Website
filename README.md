@@ -5,14 +5,14 @@ This is a static gaming content website named **Vortex**, designed to showcase v
 ## Preview
 
 <p align="center">
-  <img src="images/preview1.png">
-  <img src="images/preview2.png">
-  <img src="images/preview3.png">
+  <img src="Preview/one.png">
+  <img src="Preview/two.png">
+  <img src="Preview/three.png">
 </p>
 <p align="center">
-  <img src="images/preview4.png">
-  <img src="images/preview5.png">
-  <img src="images/preview6.png">
+  <img src="Preview/four.png">
+  <img src="Preview/five.png">
+  <img src="Preview/six.png">
 </p>
 
 ## Features
