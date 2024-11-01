@@ -1,4 +1,4 @@
-# Gaming Content Showcase - Vortex
+# Games Showcase - Vortex
 
 This is a static gaming content website named **Vortex**, designed to showcase various games with a clean and engaging layout.
 
